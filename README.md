@@ -1,2 +1,0 @@
-# AEBSE
-AEBSE homepage
